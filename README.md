@@ -40,10 +40,10 @@ The agent is deployed on Google Cloud Run and accessible via ADK Dev UI:
 
 
 ## 📁 Project Structure
-emotional-resonance-agent/
+<pre> emotional-resonance-agent/
 ├── init.py # Python package initializer
 ├── agent.py # ADK Emotional Resonance Agent logic
-└── requirements.txt # Python dependencies
+└── requirements.txt # Python dependencies </pre>
 
 
 
