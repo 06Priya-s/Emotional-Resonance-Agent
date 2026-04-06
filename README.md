@@ -16,6 +16,8 @@ The agent is deployed on Google Cloud Run and accessible via ADK Dev UI:
 **Live URL:** `https://emotional-resonance-guide-734642101049.europe-west1.run.app`
 
 
+<img width="1898" height="1048" alt="Screenshot 2026-04-07 013057" src="https://github.com/user-attachments/assets/989970fb-ee50-4270-8690-547443459e4e" />
+
 
 ## 📋 Features
 
